@@ -24,3 +24,39 @@
 <p>•	File Handling<br>
 <p>•	C++ / OOP <br>
 </p>
+
+<h3 align="left">Functionalities:</h3>
+<h4 align="left">Admin Functionalities:</h4>
+<p>•	<b>Register Admin:</b> Allows the admin to register with first name, surname, username, and password.<br>
+<p>•	<b>Add Students/Teachers:</b> Admin can add new students or teachers to the system. <br>
+<p>•	<b>View Information:</b> Admin can view students by semester and department and view teachers by department.<br>
+<p>•	<b>Delete Records:</b> Admin can delete student or teacher records. <br>
+<p>•	<b>View Teacher Feedback:</b> Admin can view feedback provided to teachers by students. <br>
+</p>
+
+<h4 align="left">Teacher Functionalities:</h4>
+<p>•	</b>Register Teacher:</b> Allows the teacher to register with first name, surname, username, password, and department.<br>
+<p>•	</b>Provide/View Results:</b> Teachers can manage academic results. <br>
+<p>•	</b>Create Email:</b> Teachers can create and manage email communications. <br>
+</p>
+
+<h4 align="left">Student Functionalities:</h4>
+<p>•	</b>Register Student:</b>  Allows the student to register with first name, surname, username, and password.<br>
+<p>•	</b>View Results:</b>  Students can view their academic results. <br>
+<p>•	</b>Access Course and Routine Information:</b>  Students can view course outlines and semester routines. <br>
+<p>•	</b>Give Feedback:</b>  Students can provide feedback to their teachers. <br>
+<p>•	</b>Download Admit Card:</b>  Students can download their admit card. <br>
+</p>
+
+<h3 align="left">Expected Output: </h3>
+<p>•	Show students by semester and department<br>
+<p>•	Show teachers by department <br>
+<p>•	View teacher feedback <br>
+<p>•	View student result as a teacher  <br>
+<p>•	View teacher’s mail <br>
+<p>•	View Student’s academic result <br>
+<p>•	View student’s mail <br>
+<p>•	View academic Course Outline <br>
+<p>•	View Semester Routine <br>
+<p>•	View Admit Card <br>
+</p>
