@@ -35,17 +35,17 @@
 </p>
 
 <h4 align="left">Teacher Functionalities:</h4>
-<p>•	</b>Register Teacher:</b> Allows the teacher to register with first name, surname, username, password, and department.<br>
-<p>•	</b>Provide/View Results:</b> Teachers can manage academic results. <br>
-<p>•	</b>Create Email:</b> Teachers can create and manage email communications. <br>
+<p>•	<b>Register Teacher:</b> Allows the teacher to register with first name, surname, username, password, and department.<br>
+<p>•	<b>Provide/View Results:</b> Teachers can manage academic results. <br>
+<p>•	<b>Create Email:</b> Teachers can create and manage email communications. <br>
 </p>
 
 <h4 align="left">Student Functionalities:</h4>
-<p>•	</b>Register Student:</b>  Allows the student to register with first name, surname, username, and password.<br>
-<p>•	</b>View Results:</b>  Students can view their academic results. <br>
-<p>•	</b>Access Course and Routine Information:</b>  Students can view course outlines and semester routines. <br>
-<p>•	</b>Give Feedback:</b>  Students can provide feedback to their teachers. <br>
-<p>•	</b>Download Admit Card:</b>  Students can download their admit card. <br>
+<p>•	<b>Register Student:</b>  Allows the student to register with first name, surname, username, and password.<br>
+<p>•	<b>View Results:</b>  Students can view their academic results. <br>
+<p>•	<b>Access Course and Routine Information:</b>  Students can view course outlines and semester routines. <br>
+<p>•	<b>Give Feedback:</b>  Students can provide feedback to their teachers. <br>
+<p>•	<b>Download Admit Card:</b>  Students can download their admit card. <br>
 </p>
 
 <h3 align="left">Expected Output: </h3>
