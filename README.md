@@ -20,7 +20,7 @@
 <h4 align="left">Extensibility:</h4>
 <p>•	The project is designed to be extensible, allowing for the addition of new features like course management, routine management, and more detailed feedback systems.<br>
 </p>
-<h4 align="left">Technology Used:</h4>
+<h3 align="left">Technology Used:</h3>
 <p>•	File Handling<br>
 <p>•	C++ / OOP <br>
 </p>
